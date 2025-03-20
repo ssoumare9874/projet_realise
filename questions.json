@@ -1,0 +1,112 @@
+[
+    {
+        "question": "Quelle est la capitale de l'Allemagne ?",
+        "options": ["Berlin", "Madrid", "Rome", "Paris"],
+        "answer": "Berlin"
+    },
+    {
+        "question": "Quel est le plus grand océan du monde ?",
+        "options": ["Océan Atlantique", "Océan Pacifique", "Océan Indien", "Océan Arctique"],
+        "answer": "Océan Pacifique"
+    },
+    {
+        "question": "Combien de continents y a-t-il sur Terre ?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+    },
+    {
+        "question": "Quel est l'élément chimique dont le symbole est O ?",
+        "options": ["Or", "Oxygène", "Osmium", "Oganesson"],
+        "answer": "Oxygène"
+    },
+    {
+        "question": "Qui a peint la Joconde ?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Léonard de Vinci"],
+        "answer": "Léonard de Vinci"
+    },
+    {
+        "question": "Quelle est la planète la plus proche du Soleil ?",
+        "options": ["Mars", "Vénus", "Mercure", "Jupiter"],
+        "answer": "Mercure"
+    },
+    {
+        "question": "Quel est le symbole chimique du Fer ?",
+        "options": ["F", "Fe", "Fr", "Fi"],
+        "answer": "Fe"
+    },
+    {
+        "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+        "options": ["Brésil", "Allemagne", "France", "Espagne"],
+        "answer": "France"
+    },
+    {
+        "question": "Quelle est la monnaie officielle du Japon ?",
+        "options": ["Yuan", "Yen", "Won", "Roupie"],
+        "answer": "Yen"
+    },
+    {
+        "question": "Qui a écrit 'Les Misérables' ?",
+        "options": ["Émile Zola", "Victor Hugo", "Gustave Flaubert", "Molière"],
+        "answer": "Victor Hugo"
+    },
+    {
+        "question": "Quelle est la capitale de la France ?",
+        "options": ["Paris", "Londres", "Berlin", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Combien font 5 x 6 ?",
+        "options": ["30", "25", "20", "35"],
+        "answer": "30"
+    },
+    {
+        "question": "Quel langage est utilisé pour développer avec Tkinter ?",
+        "options": ["Python", "Java", "C++", "HTML"],
+        "answer": "Python"
+    },
+    {
+        "question": "Qui a développé Windows ?",
+        "options": ["Apple", "Google", "Microsoft", "Linux"],
+        "answer": "Microsoft"
+    },
+    {
+        "question": "Quel est le plus grand désert du monde ?",
+        "options": ["Sahara", "Antarctique", "Gobi", "Kalahari"],
+        "answer": "Antarctique"
+    },
+    {
+        "question": "Quel est le symbole chimique du fer ?",
+        "options": ["Fe", "F", "Ir", "In"],
+        "answer": "Fe"
+    },
+    {
+        "question": "Quelle est la vitesse de la lumière ?",
+        "options": ["299 792 458 m/s", "150 000 km/s", "1 080 000 km/h", "3 000 000 m/s"],
+        "answer": "299 792 458 m/s"
+    },
+    {
+        "question": "Qui a inventé l'ampoule électrique ?",
+        "options": ["Nikola Tesla", "Thomas Edison", "Alexander Graham Bell", "Benjamin Franklin"],
+        "answer": "Thomas Edison"
+    },
+    {
+        "question": "Quel est le plus long fleuve du monde ?",
+        "options": ["Nil", "Amazon", "Yangtsé", "Mississippi"],
+        "answer": "Nil"
+    },
+    {
+        "question": "Dans quel pays se trouve la Grande Muraille ?",
+        "options": ["Japon", "Chine", "Inde", "Corée du Sud"],
+        "answer": "Chine"
+    },
+    {
+        "question": "Combien de côtés possède un hexagone ?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "6"
+    },
+    {
+        "question": "Quelle est la capitale du Canada ?",
+        "options": ["Toronto", "Vancouver", "Ottawa", "Montréal"],
+        "answer": "Ottawa"
+    }
+]
